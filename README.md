@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanquote&label=Profile%20views&color=0e75b6&style=flat" alt="yanquote" /> </p>
 
-- 🔭 I’m currently working on [DaNewStreet](github.com/danewstreet)
+- 🔭 I’m currently working on [DaNewStreet](https://github.com/danewstreet)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [github.com/YanQuote](github.com/YanQuote)
+- 👨‍💻 All of my projects are available at [https://github.com/YanQuote](https://github.com/YanQuote)
 
 - 💬 Ask me about **LUA and some Backend features**
 
