@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanquote&label=Profile%20views&color=0e75b6&style=flat" alt="yanquote" /> </p>
 
-- 🔭 I’m currently working on [DaNewStreet](https://github.com/danewstreet)
+- 🔭 I’m currently working on Nothing right now...
 
 - 🌱 I’m currently learning **React**
 
