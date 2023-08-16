@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **LUA and some Backend features**
 
-- 📫 How to reach me **earthlumier0@gmail.com**
+- 📫 How to reach me **@yanquote** on discord
 
 - ⚡ Fun fact **I'm french :)**
 
