@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanislgha&label=Profile%20views&color=0e75b6&style=flat" alt="yanquote" /> </p>
 
-- 🔭 I’m currently working on **Nothing Right Now**...
+- 🔭 I’m currently working for Slanting Stds
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YanQuote](https://github.com/YanQuote)
+- 👨‍💻 All of my projects are available at [https://github.com/yanislgha](https://github.com/yanislgha)
 
 - 💬 Ask me about **LUA and some Backend features**
-
 - 📫 How to reach me **@yanquote** on discord
-
-- ⚡ Fun fact **I'm french :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
